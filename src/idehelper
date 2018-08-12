@@ -1,0 +1,5 @@
+#!/bin/bash
+# Gets the IDE helper
+
+echo "Don't forget to add _ide_helper.php to your .gitignore file"
+wget https://gist.githubusercontent.com/midnite81/9484fde57e192048406099be45384840/raw/dfbef986fbb9ad2f959a3f2da6906e99319ae6b3/_ide_helper.php

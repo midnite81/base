@@ -1,0 +1,9 @@
+#!/bin/bash
+
+mkdir -p app/Contracts
+mkdir -p app/Contracts/Repositories
+mkdir -p app/Contracts/Services
+mkdir -p app/Services
+mkdir -p app/Store/Eloquent/Models
+mkdir -p app/Store/Eloquent/Repositories
+mkdir -p app/Store/Eloquent/Traits

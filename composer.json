@@ -1,0 +1,15 @@
+{
+    "name": "midnite81/base",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Simon Rogers",
+            "email": "webdev@centralblue.co.uk"
+        }
+    ],
+    "require": {},
+    "bin": [
+        "src/idehelper",
+        "src/repos"
+    ]
+}
