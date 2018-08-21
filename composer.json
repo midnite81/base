@@ -10,7 +10,7 @@
     "require": {},
     "bin": [
         "src/idehelper",
-        "src/repos"
+        "src/repos",
         "src/lando71"
     ]
 }
