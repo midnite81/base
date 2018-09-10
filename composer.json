@@ -11,6 +11,9 @@
     "bin": [
         "src/idehelper",
         "src/repos",
-        "src/lando71"
+        "src/lando71",
+        "src/lando72",
+        "src/lando56",
+        "src/lando54",
     ]
 }
