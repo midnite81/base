@@ -11,6 +11,7 @@
     "bin": [
         "src/idehelper",
         "src/laravel-make-template",
+        "src/phpunitxml",
         "src/repos",
         "src/lando/lando71",
         "src/lando/lando72",
