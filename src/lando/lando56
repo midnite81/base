@@ -1,5 +1,5 @@
 #!/bin/bash
-# Gets the IDE helper
+# Gets a default lando file with php 5.6
 
 echo "Don't forget to add .lando.yml to your .gitignore file"
 wget https://gist.githubusercontent.com/midnite81/73fdae6e185330b12bc18de4708deaa3/raw/fe774ac38787f99109005cb2c2aa98221a8cc7b6/lando-php56.yml --output-document=.lando.yml

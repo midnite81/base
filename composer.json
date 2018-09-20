@@ -12,9 +12,9 @@
         "src/idehelper",
         "src/laravel-make-template",
         "src/repos",
-        "src/lando71",
-        "src/lando72",
-        "src/lando56",
-        "src/lando54"
+        "src/lando/lando71",
+        "src/lando/lando72",
+        "src/lando/lando56",
+        "src/lando/lando54"
     ]
 }

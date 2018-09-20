@@ -1,0 +1,4 @@
+#!/bin/bash
+# Gets a default lando file with php 7.2
+
+wget https://gist.githubusercontent.com/midnite81/0969c957cd6d14f67451c8475a0baf00/raw/e2640cf434b711861075a604f452a2728b069b72/phpunit.xml --output-document=phpunit.xml
