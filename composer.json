@@ -10,7 +10,11 @@
     "require": {},
     "bin": [
         "src/idehelper",
+        "src/laravel-make",
         "src/repos",
-        "src/laravel-make"
+        "src/lando71",
+        "src/lando72",
+        "src/lando56",
+        "src/lando54"
     ]
 }

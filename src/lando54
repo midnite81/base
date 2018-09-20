@@ -1,0 +1,5 @@
+#!/bin/bash
+# Gets the IDE helper
+
+echo "Don't forget to add .lando.yml to your .gitignore file"
+wget https://gist.githubusercontent.com/midnite81/8f9a2e0fb08097dc1c5794be49e270b7/raw/3863e125ab65853d161227393fb7dd5e25e225d1/lando-php54.yml --output-document=.lando.yml
