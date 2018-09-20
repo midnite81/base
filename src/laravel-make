@@ -1,0 +1,4 @@
+#!/bin/bash
+# Gets laravel make env file
+
+wget https://gist.githubusercontent.com/midnite81/3106fc1da39c6d3a19b5465b2285d03b/raw/e0eb44c24958e9a681f738ee878106ac993c2ae2/.laravel-make
