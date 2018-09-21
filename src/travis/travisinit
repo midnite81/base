@@ -1,0 +1,4 @@
+#!/bin/bash
+# Gets a default travis.yml
+
+wget https://gist.githubusercontent.com/midnite81/20f8973df3342ff40414947b56babe2f/raw/0505b30bbacac0effe2d0f4b4cc8cf71f72cece2/.travis.yml

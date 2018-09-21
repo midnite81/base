@@ -13,6 +13,7 @@
         "src/laravel-make-template",
         "src/phpunitxml",
         "src/repos",
+        "src/travis/travisinit",
         "src/lando/lando71",
         "src/lando/lando72",
         "src/lando/lando56",
